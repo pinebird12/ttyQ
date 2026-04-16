@@ -6,7 +6,7 @@
 - 
 
 ## Project Points
-### 1. Read/Write and intereperate the keyboard signal
+### 1. Write to the keyboard
 Microcontroller, wired to rear side of PCB where keyboard ribbon cable
 attaches, to test sending and recieving signals when keyboard is in use
 
@@ -26,4 +26,7 @@ For next time:
   pressed?
 - Read Circuit design...
 - Completed wire housing
-- 
+- more breadboard
+- Dupont wires
+- 3d print holding parts
+- 3d print mount for keyboard
