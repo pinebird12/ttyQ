@@ -3,6 +3,9 @@
 ## Tools needed
 - Multimeter
 - microcontroller/processor
+
+## random notes
+- desoldered CR10 on alpha, diode is 1N4933
  
 
 ## Project Points
