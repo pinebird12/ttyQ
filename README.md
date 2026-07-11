@@ -3,7 +3,7 @@
 ## Tools needed
 - Multimeter
 - microcontroller/processor
-- 
+ 
 
 ## Project Points
 ### 1. Write to the keyboard
